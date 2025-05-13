@@ -1,0 +1,83 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.loadpath
+.metadata/
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Java build output
+bin/
+target/
+build/
+
+# Maven
+.mvn/
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+*.iml
+.idea/
+
+# Test coverage / reports
+jacoco.exec
+coverage-reports/
+test-output/
+*.ec
+
+# Temporary / backup files
+*.swp
+*.bak
+*.tmp
+*.orig
+
+# Environment / secrets (optional — if you use them)
+.env
+application-*.yml
+application-*.properties
+
